@@ -101,7 +101,7 @@ map(str, numbers)	# str 作用于 numbers 里面的每个对象
 
 ### 查看Git是否被ssh连接
 
-```pyth
+```cmd
 # git_bash git的终端
 ssh -T git@github.com
 ```
